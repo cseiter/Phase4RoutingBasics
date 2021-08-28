@@ -1,4 +1,4 @@
-# Rails Routing Basics
+# Rails Routing Basics 
 
 ## Learning Goals
 
